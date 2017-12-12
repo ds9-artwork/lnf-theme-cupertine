@@ -22,3 +22,7 @@ theme=__aurorae__svg__Breezemite
 
 [plasmarc][Theme]
 name=default
+
+[kdeglobals][Icons]
+Theme=breeze
+
