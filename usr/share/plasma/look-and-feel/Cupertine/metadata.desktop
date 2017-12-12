@@ -1,0 +1,11 @@
+[Desktop Entry]
+Comment=Look and Feel theme inspired by macOS
+Name=Cupertine
+X-KDE-PluginInfo-Author=Marco Martin
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=mart@kde.org
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=LGPL 2.1+
+X-KDE-PluginInfo-Name=Cupertine
+X-KDE-PluginInfo-Version=0.1
+X-KDE-ServiceTypes=Plasma/LookAndFeel
