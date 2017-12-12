@@ -1,0 +1,13 @@
+Source: lnf-theme-cupertine
+Section: kde
+Priority: optional
+Maintainer: neon <rohan@garg.io>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.6
+Homepage: https://store.kde.org/p/1167950/
+
+Package: lnf-theme-cupertine
+Architecture: all
+Depends: ${misc:Depends}
+Description: cupertine LNF theme for Plasma 5
+ This package contains the cupertine LNF theme
