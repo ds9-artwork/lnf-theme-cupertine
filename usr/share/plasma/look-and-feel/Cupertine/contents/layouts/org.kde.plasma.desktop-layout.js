@@ -44,7 +44,7 @@ var layout = {
                             "global": "Alt+F1"
                         }
                     },
-                    "plugin": "org.kde.plasma.simplemenu"
+                    "plugin": "org.kde.plasma.kicker"
                 },
                 {
                     "plugin": "org.kde.plasma.appmenu"
