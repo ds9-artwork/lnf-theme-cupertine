@@ -2,7 +2,7 @@
 Services=org.kde.latte-dock
 
 [kcminputrc][Mouse]
-cursorTheme=breeze_cursors
+cursorTheme=capitaine-cursors-r3
 
 [kdeglobals][General]
 ColorScheme=Cupertine

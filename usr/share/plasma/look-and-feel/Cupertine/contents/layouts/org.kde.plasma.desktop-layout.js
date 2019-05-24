@@ -20,7 +20,7 @@ var layout = {
                 },
                 "/Wallpaper/org.kde.image/General": {
                     "FillMode": "2",
-                    "Image": "MonumentValley",
+                    "Image": "SunsetMountainTop",
                     "height": "1050",
                     "width": "1680"
                 }
