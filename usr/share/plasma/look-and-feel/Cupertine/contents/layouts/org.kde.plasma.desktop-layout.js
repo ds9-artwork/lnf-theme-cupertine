@@ -57,6 +57,9 @@ var layout = {
                 },
                 {
                     "plugin": "org.kde.plasma.digitalclock"
+                },
+                {
+                    "plugin": "org.kde.milou"
                 }
             ],
             "config": {
